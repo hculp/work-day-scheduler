@@ -11,4 +11,4 @@ upon refresh.
 
 https://github.com/hculp/work-day-scheduler
 
-![Demo of work day scheduler](./assets/images/ezgif.com-resize.gif "work day scheduler demo")
+![Demo of work day scheduler](./assets/images/wordayscheduler_demo.gif "work day scheduler demo")
