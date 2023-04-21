@@ -33,13 +33,13 @@ $(function () {
   }
 
 
-  $(".hour").each(function() {
-      var currentTimeBlock = $(this).text();
-      var currentStorage = localStorage.getItem(currentTimeBlock);
-      if(currentStorage !== null) {
-          $(this).siblings('.description').val(currentStorage);
-      }
-    });
+    $(".hour").each(function() {
+        var currentTimeBlock = $(this).text();
+        var currentStorage = localStorage.getItem(currentTimeBlock);
+        if(currentStorage !== null) {
+            $(this).siblings('.description').val(currentStorage);
+        }
+      });
 
   currentDay.text(dayjs().format('dddd, MMMM D, YYYY h:mm A'));
   applyTimeClass();
