@@ -9,6 +9,6 @@ upon refresh.
 
 ## Link and preview
 
-https://github.com/hculp/work-day-scheduler
+https://hculp.github.io/work-day-scheduler/
 
 ![Demo of work day scheduler](./assets/images/wordayscheduler_demo.gif "work day scheduler demo")
