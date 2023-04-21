@@ -11,4 +11,4 @@ upon refresh.
 
 https://github.com/hculp/work-day-scheduler
 
-[!Alt txt](./assets/images/workdayscheduler_demo.gif "work day scheduler demo")
+[!Alt txt](./assets/images/ezgif.com-resize.gif "work day scheduler demo")
